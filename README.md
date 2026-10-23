@@ -17,9 +17,8 @@ Consolidar conhecimentos sobre bancos de dados relacionais, desenvolver habilida
 
 ```text
 Banco_de_Dados/
-├── PostgreSQL/
-│   └── Exercicio_01
 ├── MySQL/
+├── PostgreSQL/
 └── README.md
 ```
 
